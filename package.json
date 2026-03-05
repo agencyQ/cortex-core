@@ -1,6 +1,6 @@
 {
   "name": "@agencyq-007/cortex-core",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "AgencyQ Claude Code setup CLI — bootstrap any repo with consistent rules, hooks, skills, and MCPs",
   "type": "module",
   "bin": {
